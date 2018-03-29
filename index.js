@@ -1,7 +1,7 @@
-var name = "Joe"
+var name = "Susan"
 var height = "74"
 
-if (name=== "Jenny")
+if (name=== "Susan")
 {
   console.log("the name is Susan right")
 }
